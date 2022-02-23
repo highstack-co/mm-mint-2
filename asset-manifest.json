@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://highstack-co.github.io/mm-mint-2/static/css/bundle.min.css",
+    "main.js": "https://highstack-co.github.io/mm-mint-2/static/js/bundle.js",
+    "main.js.map": "https://highstack-co.github.io/mm-mint-2/static/js/bundle.js.map",
+    "index.html": "https://highstack-co.github.io/mm-mint-2/index.html",
+    "static/css/bundle.min.css.map": "https://highstack-co.github.io/mm-mint-2/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://highstack-co.github.io/mm-mint-2/static/js/bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/bundle.min.css",
+    "static/js/bundle.js"
+  ]
+}
